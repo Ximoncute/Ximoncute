@@ -47,6 +47,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
+## 📈 Contribution Graph
+
+![ximoncute Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nhhoang14&theme=react-dark&bg_color=0d1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)
 
 ---
 
