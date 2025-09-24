@@ -11,8 +11,7 @@
 - 📧 Email: [ximoncute147@gmail.com](mailto:ximoncute147@gmail.com)  
 - 🌐 Website: [https://www.hust.edu.vn/](https://www.hust.edu.vn/)  
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/hi%E1%BA%B6Fu-ka-ka-780609342)  
-- 📂 Portfolio/Docs: [Google Drive](https://drive.google.com/drive/folders/163pXfacTNCXuHZ5pbS7QOFRoxEwhIZ7?usp=drive_link)  
-- 💬 Discord: [Join me](https://discord.gg/your-link)  
+- 📂 Portfolio/Docs: [Google Drive]((https://drive.google.com/drive/u/5/folders/163pXfcaTNCXuHZSpbS7QOFROxeRwhIZ7))  
 
 ---
 
