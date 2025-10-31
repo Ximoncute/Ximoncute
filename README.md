@@ -3,7 +3,7 @@
 - 👋 Hi, I’m **Ximon Cute** (he/him)  
 - 🎓 Hanoi University of Science and Technology  
 - 🏡 Based in **Cầu Giấy, Hà Nội**  
-- ❤️ Interested in Web, Game, AI  
+- ❤️ Interested in Web, IoT , AI
 
 ---
 
