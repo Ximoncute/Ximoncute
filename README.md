@@ -51,18 +51,7 @@
 
 ![Ximoncute's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ximoncute&theme=react-dark&bg_color=0d1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&hide_title=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=7200&height=180em)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dracula&hide_border=true&cache_seconds=7200&langs_count=8&height=180em)
-
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ximoncute&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
 
 
 
