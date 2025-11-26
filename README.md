@@ -54,12 +54,17 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&hide_title=true&count_private=true&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ximoncute&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dark" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ximoncute&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Ximoncute&theme=gruvbox&no-frame=true&rank=-2" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ximoncute&theme=gruvbox&no-frame=true&rank=-2)
+
 
