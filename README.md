@@ -57,6 +57,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&hide_title=true&count_private=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ximoncute&theme=dark" />
+  <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dark" />
 
 ---
