@@ -55,15 +55,24 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&hide_title=true&count_private=true&theme=dark)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ximoncute&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&hide_title=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=7200&height=180em)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dracula&hide_border=true&cache_seconds=7200&langs_count=8&height=180em)
+
+<!-- Streak Stats mới, đẹp và ổn định -->
+<img src="https://streak-stats.demolab.com?user=Ximoncute&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&height=180em" alt="streak stats"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ximoncute&theme=gruvbox&no-frame=true&rank=-2)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ximoncute&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+
+</div>
 
 
 
