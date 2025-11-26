@@ -61,10 +61,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=dark)
 
----
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ximoncute&theme=gruvbox&no-frame=true&rank=-2)
+
 
 
