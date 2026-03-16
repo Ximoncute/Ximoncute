@@ -5,7 +5,7 @@
 - 🎓 Posts and Telecommunications Institute of Technology (Engineer) 2023 - 2027 [Computer electronics engineering]
 - 🏡 Based in **Cầu Giấy, Hà Nội**
 - 🏡 Based in **Vĩnh Tường, Vĩnh Phúc** 
-- ❤️ Interested in Web, IoT , AI , Scada Computer Vision , Embedded Linux , Embedded System , PLC 
+- ❤️ Interested in Web, IoT , AI , Scada Computer Vision , Embedded Linux , Embedded System , PLC , Mobile App , Altium , N8N
 - 💥 Electronics engineer 
 - 💥 Automation engineer
 
