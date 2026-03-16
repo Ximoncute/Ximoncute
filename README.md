@@ -1,10 +1,13 @@
 # 🐣 About Me
 
 - 👋 Hi, I’m **Ximon Cute** (he/him)  
-- 🎓 Hanoi University of Science and Technology (Engineer) , Posts and Telecommunications Institute of Technology (Engineer)  
-- 🏡 Based in **Cầu Giấy, Hà Nội**  
+- 🎓 Hanoi University of Science and Technology (Engineer) 2025 - 2027 [Automation control techniques] 
+- 🎓 Posts and Telecommunications Institute of Technology (Engineer) 2023 - 2027 [Computer electronics engineering]
+- 🏡 Based in **Cầu Giấy, Hà Nội**
+- 🏡 Based in **Vĩnh Tường, Vĩnh Phúc** 
 - ❤️ Interested in Web, IoT , AI
-- 💥 electronics engineer
+- 💥 Electronics engineer 
+- 💥 Automation engineer
 
 ---
 
