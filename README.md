@@ -1,4 +1,4 @@
-# 🐣 About Me
+# 🐣 ximon Cute
 
 - 👋 Hi, I’m **Ximon Cute** (he/him)  
 - 🎓 Hanoi University of Science and Technology (Engineer) 2025 - 2027 [Automation control techniques] 
