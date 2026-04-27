@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=asm&logoColor=white)
 
+
 ### 🔹 Web
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
@@ -50,12 +51,23 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
+### ⚙️ Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![OpenWRT](https://img.shields.io/badge/OpenWRT-green)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
 
 ## 📈 Contribution Graph
 
 ![Ximoncute's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ximoncute&theme=react-dark&bg_color=0d1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 
 
