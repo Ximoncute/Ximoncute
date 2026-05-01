@@ -20,6 +20,54 @@
 ---
 
 ## 🛠 Tech Stack
+<h6 align="center">I code with</h6>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h6 align="center">I'm also familiar with</h6>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="60" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+</div>
 
 ### 🔹 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -63,8 +111,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ximoncute&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ximoncute&show_icons=true&theme=dracula&count_private=true" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Ximoncute&theme=dracula" height="150"/>
 </p>
 
 ---
