@@ -10,6 +10,8 @@
 - 💥 Automation engineer
 
 ---
+<img width="1600" height="627" alt="image" src="https://github.com/user-attachments/assets/d9b18cfb-4cae-4b75-8f2f-5c410a4a32e7" />
+
 
 ## 📬 Contact & Socials
 - 📧 Email: [ximoncute147@gmail.com](mailto:ximoncute147@gmail.com)  
