@@ -111,8 +111,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ximoncute&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ximoncute&show_icons=true&theme=dracula&count_private=true&cache_seconds=60" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ximoncute&layout=compact&theme=tokyonight&cache_seconds=60" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Ximoncute&theme=dracula" height="150"/>
 </p>
 
